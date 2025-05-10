@@ -106,9 +106,3 @@ animation = animator.create_animation(knn, X_test, y_test, "animation.gif")
 pytest tests/
 ```
 
-## Примеры работы
-
-1. Визуализация распределения данных:
-   ![Distribution Analysis](./images/analis.png)
-2. Анимация работы KNN:
-   ![KNN Animation](./images/knn_animate.gif)
